@@ -11,7 +11,7 @@ O objetivo da aula foi verificar o nível dos alunos em inglês e icicia-los na 
 - Importância do Inglês
 - Teste de Vocabulário
 - Drawback - Obstáculo
--Introdução ao ABC e Simple Present
+- Introdução ao ABC e Simple Present
 - Pronunciando palavras com formas parecidas mas com sons diferentes
 - Introdução em inglês
 - Como melhorar seu vocabulário e meios de busca
