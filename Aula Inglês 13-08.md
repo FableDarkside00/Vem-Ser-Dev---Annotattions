@@ -5,7 +5,7 @@ https://pecege-my.sharepoint.com/personal/luanamoro_pecege_com/_layouts/15/onedr
 ```
 # Anotações importantes
 
-O objetivo da aula foi verificar o nível dos alunos em inglês e icicia-los na língua
+O objetivo da aula foi verificar o nível dos alunos em inglês e inicia-los na língua
 
 - Introduzir alunos a termos técnicos
 - Importância do Inglês
