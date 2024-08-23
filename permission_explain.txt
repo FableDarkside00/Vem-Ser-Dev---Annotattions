@@ -1,0 +1,29 @@
+# Normal Flags
+ #d - Directory
+ #r - Read
+ #w - Write
+ #x - Execute
+
+# User Flags 
+ #u - User
+ #g - Group
+ #o - Other
+ #a - All
+
+#CHMOD
+# Order
+ # 3 positions where determines the user, groups and other permissions in that order
+
+# How command works // can be used any user flags
+ # chmod u+rwx anything.txt //Add
+ # chmod u-rwx anything.txt //Remove
+
+# How read the permission lines
+ #Permssion and attributes
+ #drwx-xr-x user group bytes date namefile
+
+#CHOWN
+ #Change the owner of a file/folder and the setted owner can change the permissions over the owned stuff.
+
+#How to use chown
+ #sudo chown user filename.txt //Need sudo to determine
